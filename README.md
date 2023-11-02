@@ -1,2 +1,3 @@
 # test
-first repohello world
+first repo\n
+hello world
